@@ -1,5 +1,6 @@
 TraductoMorseEspanol
 Programa que traduce mensajes escritos a código morse y viceversa en java.
+_______________________________________________________________________________
 
 ESPECIFICACIONES: Eclipse IDE for Java Developers Version: Neon.3 Release (4.6.3)
 
